@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 dladcs
 asfdmc
 hiais
 dclsdc
 sdcns
 
+=======
+lovely
+Professional
+University
+>>>>>>> b68de114ea24fbc76aa6354b571798705f56fd9d
